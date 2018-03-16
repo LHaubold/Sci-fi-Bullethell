@@ -1,4 +1,4 @@
-#H1 **Sci Fi Bullet Hell**
+# **Sci Fi Bullet Hell** 
 
 This project was made during my early days in game-design shool. We had procedural levelspawning over the course of two weeks and 
 were supposed to create a simple game that allowed the Player to endlessly fly into one direction. This was to be achieved by
