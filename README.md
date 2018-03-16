@@ -1,4 +1,4 @@
-Sci Fi Bullet Hell
+#H1 **Sci Fi Bullet Hell**
 
 This project was made during my early days in game-design shool. We had procedural levelspawning over the course of two weeks and 
 were supposed to create a simple game that allowed the Player to endlessly fly into one direction. This was to be achieved by
@@ -12,7 +12,7 @@ has to shoot them so that he can progress further without beeing killed. There i
 saved but its there so that playing doesnt feel completely pointless. Remaining lifes and health as well as the current power up
 (there is only one) and the highscore are diplayed with via a UI that i build myself using Photoshop and some free to use UI graphics.
 
-Controls:
+**Controls:**
 - Move with WASD or the Arrow keys
 - Shoot with space
 - Hide UI with C
