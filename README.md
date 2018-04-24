@@ -19,4 +19,4 @@ saved but its there so that playing doesnt feel completely pointless. Remaining 
 - Return to Menu with Esc (this will reset Highscore)
 
 **Screenshot:**
-(Unity Project/Assets/Resources/Sprites/screenshot.PNG)
+Unity Project/Assets/Resources/Sprites/screenshot.PNG
