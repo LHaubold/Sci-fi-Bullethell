@@ -10,7 +10,7 @@ The player has 3 lifes, but is not onehit from everything. He can shoot, upgrade
 pickup or replenish health via health pickups which randomly drop from defeated enemies. Those enemies will shoot at the player who 
 has to shoot them so that he can progress further without beeing killed. There is alo a simple Highscore that unfortunately is not
 saved but its there so that playing doesnt feel completely pointless. Remaining lifes and health as well as the current power up
-(there is only one) and the highscore are diplayed with via a UI that i build myself using Photoshop and some free to use UI graphics.
+(there is only one) and the highscore are diplayed via a UI that i build myself using Photoshop and some free to use UI graphics.
 
 **Controls:**
 - Move with WASD or the Arrow keys
