@@ -17,3 +17,6 @@ saved but its there so that playing doesnt feel completely pointless. Remaining 
 - Shoot with space
 - Hide UI with C
 - Return to Menu with Esc (this will reset Highscore)
+
+**Screenshot:**
+(Unity Project/Assets/Resources/Sprites/screenshot.PNG)
