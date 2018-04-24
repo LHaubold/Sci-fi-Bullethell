@@ -19,5 +19,5 @@ saved but its there so that playing doesnt feel completely pointless. Remaining 
 - Return to Menu with Esc (this will reset Highscore)
 
 **Screenshot:**
-[a screenshot of how the game looks]( Sci-fi-Bullethell/Unity Project/Assets/Resources/Sprites/screenshot.PNG
+![a screenshot of how the game looks]( Sci-fi-Bullethell/Unity Project/Assets/Resources/Sprites/screenshot.PNG
 )
