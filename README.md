@@ -1,6 +1,6 @@
 # **Sci Fi Bullet Hell** 
 
-This project was made during my early days in game-design shool. We had procedural levelspawning over the course of two weeks and 
+This project was made during my early days in game-design school. We had procedural levelspawning over the course of two weeks and 
 were supposed to create a simple game that allowed the Player to endlessly fly into one direction. This was to be achieved by
 creating x number of Levelpieces that then would be randomly spawned and later on despawned after the player went through them.
 I got the thing running after the first couple days so i added in some fancy graphics that were free to use as well as some extra
